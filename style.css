@@ -1,73 +1,225 @@
-<html>
-  <head>
-    <title></title> 
-  </head>
-  <body>
+/* 49 */
+h1 {
+  margin: .67em 0;
+  font-size: 2em;
+}
 
-     <div class="container">
-      <div class="jumbotron">
-        <div class="row">
-          <div class="col-xs-12">
-    
-            <!-- Main Heading; Give the person's name; use <h1> -->
-            <h1 class"text-center">Ana Maria Polo Gonzalez</h1>
-            <!-- Subheading; use <h2>  -->
-            <h2 class"text-center">Arbitrator, television personality </h2>
-            <div class="thumbnail"><img
-              <!-- place and image here; use an image already on the internet -->
-              
-<img src=https://media.metrolatam.com/2019/05/05/draanamariapolop-63c698ef3a24e9ac7f1bf2444f9fbfde-900x600.jpg width="800">
-              <!-- place a caption under your picture which explains the picture -->
-              <div class="caption text-center">la Dra. Ana María Polo, Telemundo</div>
-            </div>
-            <div>
-              <!-- heading; use <h3>  -->
-              <h3 class= "text-center"> Why is Ana Maria Polo Gonzalez a Good Person</h3>
-              <!-- write a paragraph explaining why your person is so great  -->
-              <p>Ana Maria Polo is my hero because she is a lawyer and she is my example to follow. She has made me understand that no matter how hard things are you have to keep fighting for your goals in life. She makes me want to achieve my goals in life. When I was about 7 years old my mom would always watch her on Telemundo in the show Caso Cerado. When I saw her during her cases she inspired me to become a lawyer someday. Ever since that moment I wanted to become a lawyer. Dra. Ana Maria Polo has also showed me that we have to say the truth no matter what. She has made me understand that just because someone is diffrent in ways others arn't we still need to treat them like we are one of them. She has just made me want to one day become like her, and help as many families, kids, animals, and much more. 
-              </p>
-            </div>
-            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-              <!-- Timeline heading; use <h3>  -->
-              <h3 class= "text-center">Timeline Of Ana Maria Polo Gonzalez</h3>
-              <!-- create a timeline using an unordered list -->
-              
-              <ul>
-                <li><strong>Apirl 11, 1959</strong> Dra. Ana Maria was born in Havna Cuba</li>
-              <li>At the age of 12 she moved with her family to Puerto Rico and participated in different musicals including</li> 
-              <li>With more than 20 years of experience as a lawyer, Polo became known to television audiences in 2001 on Telemundo's program "Sala de Parejas" (Couples' Room), where she quickly won over the hearts of viewers.</li>
-                <li><strong>In 2005</strong> "Sala de Parejas"(Couples' Room) then became Caso Cerado on Telemundo</li>
-                <li><strong>In 2010</strong> Polo also launched "Persiguiendo Injusticias"(Pursuing Injustices), an original program that incorporates a new, never before seen format in Hispanic television; and that with the help of the community seeks to go after and help solve crimes that have gone unpunished. </li>
-                <li><strong>In 2010</strong> she aslo launched her first book called "Querida Dra. Polo Las cartas secretas de Caso Cerrado"(Dear Dr. Polo: The Secret Letters of Cased Closed),Since its launch on November 2, 2010, the book has been a huge success, maintaining second place in popularity lists in addition to completely selling out its first edition.</li> 
-                <li><strong> In 2011</strong> Ana Maria Polo was named the first Hispanic ambassador for Stand Up To Cancer.</li>
-              <li><strong> On November of 2014</strong> Ana Maria Polo was invited by the Human Rights Organization to participate on their Americans for Marriage Equality video campaign, the first one released with a Hispanic personality, both in Spanish and English.</li>
-              <li>
-Before her formal start in television, Polo practiced her profession as a lawyer for more than 20 years in the city of Miami, where she tended to cases of divorce, adoptions, paternities, custodies, child support, alimonies, and domestic violence.</li>
-              </ul>
-              
-                
+/* 78 */
+img {
+  border: 0;
+}
 
-              <blockquote>
-                <!-- use the <p> to display a famous quote from your hero -->
-                <p></p>
-                <p><em>"La vida no se trata de encontrar refugio en la tormenta. Se trata de aprender a bailar bajo la lluvia" "Life is not about finding refuge in the storm. It is about learning to dance in the rain" </em></p>
-                <!-- don't forget the quoter's name here -->
-                <footer>Dra. Ana Maria Polo<cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
-              </blockquote>
-              <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
-              <h3>Read more about Ana Marisa Polo Gonzalez<a
-               href="https://en.wikipedia.org/wiki/Ana_Mar%C3%ADa_Polo">"Ana Maria Polo Gonzalez Wikipedia"</a>.</h3>
-            </div>
-          </div>
-        </div>
-      </div>
-      <footer class= "text-center"
-        <!--  use the <hr> to create a horizontal line separating the footer section -->
-        <hr>
+/* 1377 */
+img {
+  vertical-align: middle;
+}
 
-        <!--  using the <p>, take ownership of your page  -->
-        <p>Writen and coded by Marisol Madrigal        </p>
-      </footer>
-    </div>
-  </body>
-</html>
+/* 1381 */
+.carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* 1440 */
+h1,h2,h3 {
+  font-family: inherit;
+  font-weight: 900;
+  line-height: 1.1;
+  color: inherit;
+}
+
+/* 1453 */
+h1,h2,h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* 1471 */
+h1 {
+  font-size: 36px;
+}
+
+/* 1475 */
+h2 {
+  font-size: 30px;
+}
+
+/* 1479 */
+h3 {
+  font-size: 24px;
+}
+
+/* 1529 */
+.text-center {
+  text-align: center;
+}
+
+/* 1815 */
+.container{
+  padding-right:15px;
+  padding-left:15px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+/* 1822 */
+@media (min-width:768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width:992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* 1847 */
+/* These values were originally "-15px" */
+.row {
+  margin-right: -15px;
+  margin-left: -45px;
+}
+
+/* 1852 */
+.col-md-8,.col-sm-10,.col-xs-12 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* 1863 */
+.col-xs-12 {
+  width: 100%;
+}
+
+/* 2067 */
+@media (min-width:768px) {
+  .col-sm-10 {
+    width: 83.33333333%;
+  }
+  .col-sm-offset-1 {
+    margin-left: 8.33333333%;
+  }
+}
+
+/* 2277 */
+@media (min-width:992px) {
+  .col-md-8 {
+    width: 66.66666667%;
+  }
+  .col-md-offset-2 {
+    margin-left: 16.66666667%;
+  }
+}
+
+/* 2298 */
+.col-md-8 {
+  width: 66.66666667%;
+}
+
+/* 2474 */
+.col-md-offset-2 {
+  margin-left: 16.66666667%;
+}
+
+/* 4305 */
+.nav>li>a>img {
+  max-width: none;
+}
+
+/* 5332 */
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+
+/* 5344 */
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+/* 5354 */
+.container .jumbotron{
+  border-radius:6px;
+}
+
+/* 5358 */
+.jumbotron .container{
+  max-width:100%;
+}
+
+/* 5362 */
+@media screen and (min-width:768px) {
+  .jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+  .container .jumbotron{
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .jumbotron h1 {
+    font-size: 63px;
+  }
+}
+
+/* custom */
+@media screen and (min-width:1px) {
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .container .jumbotron{
+    padding-right: 45px;
+    padding-left: 45px;
+  }
+  .jumbotron h1 {
+    font-size: 50px;
+  }
+}
+
+/* 5378 */
+.thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+/* 5391 */
+.thumbnail a>img,.thumbnail>img {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* 5400 */
+.thumbnail .caption {
+  padding: 9px;
+  color: #333;
+}
+
+/* 6686 */
+.carousel-inner>.item>a>img,.carousel-inner>.item>img {
+  line-height: 1;
+}
